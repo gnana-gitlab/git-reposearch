@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'GitHub RepoSearch App',
-  description: 'GitHub Repository Search App using Search API',
+  description: 'GitHub Repository Search App using GitHub Search API',
 };
 
 export default function RootLayout({
